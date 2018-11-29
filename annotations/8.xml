@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8.png</filename>
+	<path>/home/myron/deeplearn/tensorflow/nose/images/8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>663</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>288</ymin>
+			<xmax>392</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>
